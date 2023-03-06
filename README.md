@@ -9,4 +9,6 @@ To run the program, you will need to install the following libraries:
 * Tkinter
 * Noise
 
-To run the project, simply run the Generator_app.py file after downloading cloning or downloading the repository.
+To run the project, simply run the Generator_app.py file after cloning or downloading the repository.
+
+
