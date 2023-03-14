@@ -1,6 +1,6 @@
 <h1>Voronoi Map Generator with Perlin Noise </h1>
 
-This project is a Python and Tkinter-based map generator that uses Voronoi maps and Perlin noise to generate maps with options to input a seed, 
+This project is a Python and Tkinter-based map generator that uses Voronoi diagrams and Perlin noise to generate maps with options to input a seed, 
 change the number of initial points (affects final number of biomes), and see every step of map generation.
 
 
